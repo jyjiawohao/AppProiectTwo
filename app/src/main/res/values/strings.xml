@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">体育365</string>
+    <string name="One">资讯</string>
+    <string name="Two">视频</string>
+    <string name="Three">我的</string>
+
+    <string name="dialog_title">温馨提示</string>
+    <string name="dialog_commit">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="transition_img">transition_img</string>
+    <!--数字和字母-->
+    <string name="filter_vcode">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+    <string name="tv_agreement">注册即同意用户使用协议</string>
+    <string name="tv_registered_agreement">"\t\t「Bet365-足球资讯」的各项服务的所有权及经营运作权归其所属公司所有。
+        \n\t\t「Bet365-足球资讯」所提供一切数据只供用于球迷参考浏览及中国足球参考资讯，各位浏览者必须留意本身所处之地区及相关法律，不得利用本网站所提供的信息进行任何非法活动。 否则，任何情况下导致触犯所属地区之法律，浏览者须自行承担责任。\n\t\t「Bet365-足球资讯」有权在必要时修改服务条款.如果用户继续使用网络服务，则视为接受服务条款的变动。
+        \n\t\t「Bet365-足球资讯」将在为用户提供服务的过程中，竭尽可能地维护和完善「Bet365-足球资讯」体育提供的各种服务。用户在使用「Bet365-足球资讯」体育服务过程中自行承担风险，「Bet365-足球资讯」体育不担保服务一定能满足用户的要求，也不担保服务不会受中断，对服务的及时性，安全性，出错发生都不作担保。
+        \n\t\t任何用户在登录「Bet365-足球资讯」体育和接受「Bet365-足球资讯」体育提供的各种服务过程中不得采用任何非正当手段，包括但不限于利用程序错误等行为，「Bet365-足球资讯」体育保留对违反者采取一切手段，直至追究法律责任的权利。
+        \n\t\t用户在「Bet365-足球资讯」体育注册成功须妥善保管您的用户名和密码，不得告诉他人，否则因此产生的风险和损失由用户自行承担。用户要对以用户名单独承担发布内容的责任。用户需对自己在网上的行为承担法律责任。
+        \n\t\t「Bet365-足球资讯」体育将尽善意努力以提供及时有效的信息，但并不保证所有信息并无错讹和谬误，用户在使用「Bet365-足球资讯」体育之服务时应自行甄别。「Bet365-足球资讯」体育不承担用户据「Bet365-足球资讯」体育所披露信息或「Bet365-足球资讯」体育广告客户提供的服务而参与各项营利性活动而产生的费用和损失"</string>
+
+</resources>
